@@ -10,8 +10,8 @@
            (java.net URL))
 )
 
-(def api-key "7910993a2c60113b494f6f952f7f32f4")
-(def api-secret "90dbeab52338399f")
+(def api-key "XXXXXXXXXXXXXXXXXXXXXXXXXX")
+(def api-secret "XXXXXXXXXXXXXXXXXXX")
 (def upload-boundary "---------------------------deadbeef")
 
 (defn md5code "Returns the MD5 code of a string" [#^String inp] 
