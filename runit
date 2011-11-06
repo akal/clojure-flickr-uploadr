@@ -1,0 +1,1 @@
+java -Xmx1024m -cp clojure.jar:clojure-contrib.jar:./lib/metadata-extractor-2.4.0-beta-1.jar:./src   clojure.main ./src/uploadr/uploadr.clj "$@"
